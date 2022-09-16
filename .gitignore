@@ -1,0 +1,10 @@
+/ckpt/
+/data/
+
+lightning_logs/
+tb_logs/
+
+ipynb_checkpoints/
+__pycache__/
+
+*.csv
